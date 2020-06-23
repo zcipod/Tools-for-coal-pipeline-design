@@ -1,0 +1,4 @@
+行 154: 控件 dlgCommonDialog 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 157: 属性名 _ExtentX 在 dlgCommonDialog 中是无效的。
+行 158: 属性名 _ExtentY 在 dlgCommonDialog 中是无效的。
+行 159: 属性名 _Version 在 dlgCommonDialog 中是无效的。
